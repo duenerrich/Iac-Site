@@ -1,0 +1,35 @@
+.carousel_slide {
+margin-left: 5%;
+width: 90%;
+height: 50%;
+}
+
+.container  ul  li{
+   display: inline;
+   text-align: center;
+}
+
+#banner1 {
+   background: url(../img/banner1.jpg);
+      background-repeat: no-repeat;
+}
+
+#banner2{
+   background: url(../img/banner2.jpg);
+   background-repeat: no-repeat;
+}
+
+#banner3 {
+   background: url(../img/banner3.jpg);
+   background-repeat: no-repeat;
+}
+
+.d-block {
+   height: 270px;
+   width: 1000px;
+}
+
+
+.container{
+   width: 1100px;
+}
